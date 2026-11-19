@@ -1,0 +1,20 @@
+{
+  "release_id": "69abb874a754",
+  "player_name": "QuietGuard",
+  "files": {
+    "LICENSE": "2eb144e7d7b027f261132d3c665373e807da943d485a8a29d338873e60b2fe34",
+    "myplayer.py": "1ee60a86de72f650ac9211e59b92045e3e2827cfaf3f622b1a708f13b846cd2c",
+    "research/recreations/src/sentinel/__init__.py": "84c648c893f820a9b25272ef5e3c07b41021b153989ceff1883ddf77ef6c8a41",
+    "research/recreations/src/sentinel/agent.py": "b57aabb5876f1318155e5ab50e63e1df7f3e2baadeb61bbab1478001e0e15a14",
+    "research/recreations/src/sentinel/board.py": "88675c19dd4126a68c5b7907ccc4cc0b4e4c54d2f891db84215ed25488935b7e",
+    "research/recreations/src/sentinel/evaluation.py": "60e0c854d13d796be32cf328396f9fc1303d38285aad13f96692ba0d910a9f7c",
+    "research/recreations/src/sentinel/quiet_guard.py": "29c0bc1416247afb88bbd8671dc271b66ca1c532597b44f5f18f1ba36ff8fae9",
+    "research/recreations/src/tablut_agents/__init__.py": "c8f5ac2cf4b50a6a1f2eece7764aea4ba46e44fe61ecac472cc651b5161e7ed2",
+    "research/recreations/src/tablut_agents/api.py": "df691a6e1bff320d65d351ab631197048cb3b8f15a3ee73b733df66b61d46588",
+    "research/recreations/src/tablut_agents/model.py": "80aee199201218fe5aecc8414d02d92b31737556b8abc8216fc61feef7e50f03",
+    "research/recreations/src/tablut_agents/offline_protocol.py": "585f0b9897f0651f2c58f1c00f0ed800602c1740b223beb975a4b0d667559923",
+    "research/recreations/src/tablut_agents/reporting.py": "24f2fc21c944e89a0484771f0c25472126b0a324695d5d90d996424ca45f644c",
+    "research/recreations/src/tablut_agents/rules.py": "8f25d190730630b0bf09fd436f2fb8038f27982d3e7fece50155517f61ef3e07",
+    "runmyplayer.sh": "5b5131b339cdbe1cd2314418afabc54046e621cde50b39af6e15a502e8ef514d"
+  }
+}
